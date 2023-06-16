@@ -1,25 +1,33 @@
 /* Fonts */
 @font-face {
-  font-family: "OrtankHangeul";
-  src: url("./src/OrtankHangeulText-Light.ttf") format("truetype");
-  font-weight: 300;
+    font-family: 'Ortankhangeultext';
+    src: url('https://uploads-ssl.webflow.com/64520b917dd4e006c8db2106/6480ab5bf617bb88f9d9ace8_OrtankHangeulText-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
 }
+
 @font-face {
-  font-family: "OrtankHangeul";
-  src: url("./src/OrtankHangeulText-Regular.ttf") format("truetype");
-  font-weight: 400;
+    font-family: 'Ortankhangeultext';
+    src: url('https://uploads-ssl.webflow.com/64520b917dd4e006c8db2106/6480ab8084451636a5964c5f_OrtankHangeulText-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
 }
+
 @font-face {
-  font-family: "OrtankHangeul";
-  src: url("./src/OrtankHangeulText-Medium.ttf") format("truetype");
-  font-weight: 500;
+    font-family: 'Ortankhangeultext';
+    src: url('https://uploads-ssl.webflow.com/64520b917dd4e006c8db2106/6480ab2694e636357948837e_OrtankHangeulText-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
 }
 
 
 /* General */
 body {
   background-color: #f3f2ea;
-  font-family: "OrtankHangeul", sans-serif;
+  font-family: Ortankhangeultext,sans-serif;
   font-weight: 400;
   color: #584c43;}
 
