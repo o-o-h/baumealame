@@ -312,84 +312,84 @@ $(function() {
         var game8 = new GAME8.Game({
             cards: [
                 {
-                    backImg: './img/01.png',
+                    backImg: './img/01_권기옥.png',
                     backTxt: '권기옥',
                     connectionID: 1
                 },
                 {
-                    backImg: './img/01.png',
+                    backImg: './img/01_권기옥.png',
                     backTxt: '권기옥',
                     connectionID: 1
                 },
                 {
-                    backImg: './img/02.png',
+                    backImg: './img/02_김명순.png',
                     backTxt: '김명순',
                     connectionID: 2
                 },
                 {
-                    backImg: './img/02.png',
+                    backImg: './img/02_김명순.png',
                     backTxt: '김명순',
                     connectionID: 2
                 },
                 {
-                    backImg: './img/03.png',
+                    backImg: './img/03_김점동.png',
                     backTxt: '김점동',
                     connectionID: 3
                 },
                 {
-                    backImg: './img/03.png',
+                    backImg: './img/03_김점동.png',
                     backTxt: '김점동',
                     connectionID: 3
                 },
 
                 {
-                    backImg: './img/05.png',
+                    backImg: './img/05_나혜석.png',
                     backTxt: '나혜석',
                     connectionID: 4
                 },
                 {
-                    backImg: './img/05.png',
+                    backImg: './img/05_나혜석.png',
                     backTxt: '나혜석',
                     connectionID: 4
                 },
 
                 {
-                    backImg: './img/09.png',
+                    backImg: './img/09_박남옥.png',
                     backTxt: '박남옥',
                     connectionID: 5
                 },
                 {
-                    backImg: './img/09.png',
+                    backImg: './img/09_박남옥.png',
                     backTxt: '박남옥',
                     connectionID: 5
                 },
                 {
-                    backImg: './img/12.png',
+                    backImg: './img/12_부춘화.png',
                     backTxt: '부춘화',
                     connectionID: 6
                 },
                 {
-                    backImg: './img/12.png',
+                    backImg: './img/12_부춘화.png',
                     backTxt: '부춘화',
                     connectionID: 6
                 },
                 {
-                    backImg: './img/14.png',
+                    backImg: './img/14_이태영.png',
                     backTxt: '이태영',
                     connectionID: 7
                 },
                 {
-                    backImg: './img/14.png',
+                    backImg: './img/14_이태영.png',
                     backTxt: '이태영',
                     connectionID: 7
                 },
                 {
-                    backImg: './img/19.png',
+                    backImg: './img/19_허정숙.png',
                     backTxt: '허정숙',
                     connectionID: 8
                 },
                 {
-                    backImg: './img/19.png',
+                    backImg: './img/19_허정숙.png',
                     backTxt: '허정숙',
                     connectionID: 8
                 },
@@ -403,6 +403,7 @@ $(function() {
             $('#btn-start-game20').addClass('hide');
             $('#btn-refresh').removeClass('hide');
             $('#level-game8').removeClass('hide');
+            $('.wrapper_btn').addClass('hide');            
         });
 
     });
@@ -724,122 +725,122 @@ $(function() {
         var game12 = new GAME12.Game({
             cards: [
                 {
-                    backImg: './img/01.png',
+                    backImg: './img/01_권기옥.png',
                     backTxt: '권기옥',
                     connectionID: 1
                 },
                 {
-                    backImg: './img/01.png',
+                    backImg: './img/01_권기옥.png',
                     backTxt: '권기옥',
                     connectionID: 1
                 },
                 {
-                    backImg: './img/02.png',
+                    backImg: './img/02_김명순.png',
                     backTxt: '김명순',
                     connectionID: 2
                 },
                 {
-                    backImg: './img/02.png',
+                    backImg: './img/02_김명순.png',
                     backTxt: '김명순',
                     connectionID: 2
                 },
                 {
-                    backImg: './img/03.png',
+                    backImg: './img/03_김점동.png',
                     backTxt: '김점동',
                     connectionID: 3
                 },
                 {
-                    backImg: './img/03.png',
+                    backImg: './img/03_김점동.png',
                     backTxt: '김점동',
                     connectionID: 3
                 },
                 {
-                    backImg: './img/19.png',
+                    backImg: './img/19_허정숙.png',
                     backTxt: '허정숙',
                     connectionID: 4
                 },
                 {
-                    backImg: './img/19.png',
+                    backImg: './img/19_허정숙.png',
                     backTxt: '허정숙',
                     connectionID: 4
                 },
                 {
-                    backImg: './img/08.png',
+                    backImg: './img/08_말랄라유사프자이.png',
                     backTxt: '말랄라 유사프자이',
                     connectionID: 5
                 },
                 {
-                    backImg: './img/08.png',
+                    backImg: './img/08_말랄라유사프자이.png',
                     backTxt: '말랄라 유사프자이',
                     connectionID: 5
                 },
                 {
-                    backImg: './img/11.png',
+                    backImg: './img/11_베르타카세레스.png',
                     backTxt: '베르타 카세레스',
                     connectionID: 6
                 },
                 {
-                    backImg: './img/11.png',
+                    backImg: './img/11_베르타카세레스.png',
                     backTxt: '베르타 카세레스',
                     connectionID: 6
                 },
                 {
-                    backImg: './img/12.png',
+                    backImg: './img/12_부춘화.png',
                     backTxt: '부춘화',
                     connectionID: 7
                 },
                 {
-                    backImg: './img/12.png',
+                    backImg: './img/12_부춘화.png',
                     backTxt: '부춘화',
                     connectionID: 7
                 },
                 {
-                    backImg: './img/13.png',
+                    backImg: './img/13_에멀린팽크허스트.png',
                     backTxt: '에멀린 팽크허스트',
                     connectionID: 8
                 },
                 {
-                    backImg: './img/13.png',
+                    backImg: './img/13_에멀린팽크허스트.png',
                     backTxt: '에멀린 팽크허스트',
                     connectionID: 8
                 },
                 {
-                    backImg: './img/14.png',
+                    backImg: './img/14_이태영.png',
                     backTxt: '이태영',
                     connectionID: 9
                 },
                 {
-                    backImg: './img/14.png',
+                    backImg: './img/14_이태영.png',
                     backTxt: '이태영',
                     connectionID: 9
                 },
                 {
-                    backImg: './img/15.png',
+                    backImg: './img/15_제인구달.png',
                     backTxt: '제인 구달',
                     connectionID: 10
                 },
                 {
-                    backImg: './img/15.png',
+                    backImg: './img/15_제인구달.png',
                     backTxt: '제인 구달',
                     connectionID: 10
                 },
                 {
-                    backImg: './img/17.png',
+                    backImg: './img/17_캐서린존슨.png',
                     backTxt: '캐서린 존슨',
                     connectionID: 11
                 },
                 {
-                    backImg: './img/17.png',
+                    backImg: './img/17_캐서린존슨.png',
                     backTxt: '캐서린 존슨',
                     connectionID: 11
                 },
                 {
-                    backImg: './img/18.png',
+                    backImg: './img/18_투유유.png',
                     backTxt: '투유유',
                     connectionID: 12
                 },
                 {
-                    backImg: './img/18.png',
+                    backImg: './img/18_투유유.png',
                     backTxt: '투유유',
                     connectionID: 12
                 },
@@ -853,6 +854,7 @@ $(function() {
             $('#btn-start-game20').addClass('hide');
             $('#btn-refresh').removeClass('hide');
             $('#level-game12').removeClass('hide');
+            $('.wrapper_btn').addClass('hide');
         });
 
     });
@@ -1174,202 +1176,202 @@ $(function() {
         var game20 = new GAME20.Game({
             cards: [
                 {
-                    backImg: './img/01.png',
+                    backImg: './img/01_권기옥.png',
                     backTxt: '권기옥',
                     connectionID: 1
                 },
                 {
-                    backImg: './img/01.png',
+                    backImg: './img/01_권기옥.png',
                     backTxt: '권기옥',
                     connectionID: 1
                 },
                 {
-                    backImg: './img/02.png',
+                    backImg: './img/02_김명순.png',
                     backTxt: '김명순',
                     connectionID: 2
                 },
                 {
-                    backImg: './img/02.png',
+                    backImg: './img/02_김명순.png',
                     backTxt: '김명순',
                     connectionID: 2
                 },
                 {
-                    backImg: './img/03.png',
+                    backImg: './img/03_김점동.png',
                     backTxt: '김점동',
                     connectionID: 3
                 },
                 {
-                    backImg: './img/03.png',
+                    backImg: './img/03_김점동.png',
                     backTxt: '김점동',
                     connectionID: 3
                 },
                 {
-                    backImg: './img/04.png',
+                    backImg: './img/04_플로랑스나이팅게일.png',
                     backTxt: '플로랑스 나이팅게일',
                     connectionID: 4
                 },
                 {
-                    backImg: './img/04.png',
+                    backImg: './img/04_플로랑스나이팅게일.png',
                     backTxt: '플로랑스 나이팅게일',
                     connectionID: 4
                 },
                 {
-                    backImg: './img/05.png',
+                    backImg: './img/05_나혜석.png',
                     backTxt: '나혜석',
                     connectionID: 5
                 },
                 {
-                    backImg: './img/05.png',
+                    backImg: './img/05_나혜석.png',
                     backTxt: '나혜석',
                     connectionID: 5
                 },
                 {
-                    backImg: './img/06.png',
+                    backImg: './img/06_로자파크스.png',
                     backTxt: '로자 파크스',
                     connectionID: 6
                 },
                 {
-                    backImg: './img/06.png',
+                    backImg: './img/06_로자파크스.png',
                     backTxt: '로자 파크스',
                     connectionID: 6
                 },
                 {
-                    backImg: './img/07.png',
+                    backImg: './img/07_마리암미르자하니.png',
                     backTxt: '마리암 미르자하니',
                     connectionID: 7
                 },
                 {
-                    backImg: './img/07.png',
+                    backImg: './img/07_마리암미르자하니.png',
                     backTxt: '마리암 미르자하니',
                     connectionID: 7
                 },
                 {
-                    backImg: './img/08.png',
+                    backImg: './img/08_말랄라유사프자이.png',
                     backTxt: '말랄라 유사프자이',
                     connectionID: 8
                 },
                 {
-                    backImg: './img/08.png',
+                    backImg: './img/08_말랄라유사프자이.png',
                     backTxt: '말랄라 유사프자이',
                     connectionID: 8
                 },
                 {
-                    backImg: './img/09.png',
+                    backImg: './img/09_박남옥.png',
                     backTxt: '박남옥',
                     connectionID: 9
                 },
                 {
-                    backImg: './img/09.png',
+                    backImg: './img/09_박남옥.png',
                     backTxt: '박남옥',
                     connectionID: 9
                 },
                 {
-                    backImg: './img/10.png',
+                    backImg: './img/10_버지니아울프.png',
                     backTxt: '버지니아 울프',
                     connectionID: 10
                 },
                 {
-                    backImg: './img/10.png',
+                    backImg: './img/10_버지니아울프.png',
                     backTxt: '버지니아 울프',
                     connectionID: 10
                 },
                 {
-                    backImg: './img/11.png',
+                    backImg: './img/11_베르타카세레스.png',
                     backTxt: '베르타 카세레스',
                     connectionID: 11
                 },
                 {
-                    backImg: './img/11.png',
+                    backImg: './img/11_베르타카세레스.png',
                     backTxt: '베르타 카세레스',
                     connectionID: 11
                 },
                 {
-                    backImg: './img/12.png',
+                    backImg: './img/12_부춘화.png',
                     backTxt: '부춘화',
                     connectionID: 12
                 },
                 {
-                    backImg: './img/12.png',
+                    backImg: './img/12_부춘화.png',
                     backTxt: '부춘화',
                     connectionID: 12
                 },
                 {
-                    backImg: './img/13.png',
+                    backImg: './img/13_에멀린팽크허스트.png',
                     backTxt: '에멀린 팽크허스트',
                     connectionID: 13
                 },
                 {
-                    backImg: './img/13.png',
+                    backImg: './img/13_에멀린팽크허스트.png',
                     backTxt: '에멀린 팽크허스트',
                     connectionID: 13
                 },
                 {
-                    backImg: './img/14.png',
+                    backImg: './img/14_이태영.png',
                     backTxt: '이태영',
                     connectionID: 14
                 },
                 {
-                    backImg: './img/14.png',
+                    backImg: './img/14_이태영.png',
                     backTxt: '이태영',
                     connectionID: 14
                 },
                 {
-                    backImg: './img/15.png',
+                    backImg: './img/15_제인구달.png',
                     backTxt: '제인 구달',
                     connectionID: 15
                 },
                 {
-                    backImg: './img/15.png',
+                    backImg: './img/15_제인구달.png',
                     backTxt: '제인 구달',
                     connectionID: 15
                 },
                 {
-                    backImg: './img/16.png',
+                    backImg: './img/16_차미리사.png',
                     backTxt: '차미리사',
                     connectionID: 16
                 },
                 {
-                    backImg: './img/16.png',
+                    backImg: './img/16_차미리사.png',
                     backTxt: '차미리사',
                     connectionID: 16
                 },
                 {
-                    backImg: './img/17.png',
+                    backImg: './img/17_캐서린존슨.png',
                     backTxt: '캐서린 존슨',
                     connectionID: 17
                 },
                 {
-                    backImg: './img/17.png',
+                    backImg: './img/17_캐서린존슨.png',
                     backTxt: '캐서린 존슨',
                     connectionID: 17
                 },
                 {
-                    backImg: './img/18.png',
+                    backImg: './img/18_투유유.png',
                     backTxt: '투유유',
                     connectionID: 18
                 },
                 {
-                    backImg: './img/18.png',
+                    backImg: './img/18_투유유.png',
                     backTxt: '투유유',
                     connectionID: 18
                 },
                 {
-                    backImg: './img/19.png',
+                    backImg: './img/19_허정숙.png',
                     backTxt: '허정숙',
                     connectionID: 19
                 },
                 {
-                    backImg: './img/19.png',
+                    backImg: './img/19_허정숙.png',
                     backTxt: '허정숙',
                     connectionID: 19
                 },
                 {
-                    backImg: './img/20.png',
+                    backImg: './img/20_헬렌켈러.png',
                     backTxt: '헬렌 켈러',
                     connectionID: 20
                 },
                 {
-                    backImg: './img/20.png',
+                    backImg: './img/20_헬렌켈러.png',
                     backTxt: '헬렌 켈러',
                     connectionID: 20
                 },
@@ -1383,6 +1385,7 @@ $(function() {
             $('#btn-start-game20').addClass('hide');
             $('#btn-refresh').removeClass('hide');
             $('#level-game20').removeClass('hide');
+            $('.wrapper_btn').addClass('hide');
         });
 
     });
