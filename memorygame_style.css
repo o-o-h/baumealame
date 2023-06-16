@@ -44,7 +44,7 @@ body {
   font-size: 16px;
   line-height: 36px;
   color:RGBa(88,76,67,0.6);
-  font-weight: 500;
+  font-weight: 400;
   margin-bottom: 0;}
 
 .level-label strong{
@@ -161,7 +161,7 @@ body {
   border-radius: 30px;
   font-size: 20px;
   line-height: 20px;
-  font-weight: 500;
+  font-weight: 400;
   text-decoration: none;
   text-transform: uppercase;
   color: #584c43;
