@@ -261,7 +261,7 @@ body {
   height: 180px;}
 
 
-#cards-container-game8 .front {background-image: url("img/card_back2.png");}
+#cards-container-game8 .front {background-image: url("img/card_back_8.png");}
 
 
 #cards-container-game8 .back label {
@@ -285,7 +285,7 @@ body {
   width: 140px;
   height: 140px;}
 
-#cards-container-game12 .front {background-image: url("img/card_back3.png");}
+#cards-container-game12 .front {background-image: url("img/card_back_12.png");}
 
 #cards-container-game12 .back label {
   font-size: 0.8vw;
@@ -308,7 +308,7 @@ body {
   width:120px;
   height:120px;}
 
-#cards-container-game20 .front {background-image: url("img/card_back4.png");}
+#cards-container-game20 .front {background-image: url("img/card_back_20.png");}
 
 #cards-container-game20 .back label {
   font-size: 12px;
