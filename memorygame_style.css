@@ -151,6 +151,7 @@ body {
 
 /* Buttons */
 .btn {
+  font-family: 'Ortankhangeultext', sans-serif;
   margin:20px 10px;
   display: inline-block;
   background-color: #f3f2ea;
