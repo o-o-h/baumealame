@@ -408,8 +408,7 @@ font-family: 'Ortankhangeultext', sans-serif;}
 
 @media screen and (max-width: 768px) {
 }
-
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 430px) {
     .btn{display:block;margin:20px auto;}
 }
 
