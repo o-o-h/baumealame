@@ -133,11 +133,14 @@ body {
 
 /* Timer */
 .timer {
+  background-color:#f3f2ea;
+  padding:5px 10px;
+  border-radius:10px;
   display: none;
   position: fixed;
   pointer-events: none;
-  right: 20px;
-  top: 20px;
+  right:0px;
+  top: 0px;
 }
 .timer label#minutes,
 .timer label#seconds {
@@ -183,7 +186,7 @@ body {
 
 
 
-#btn-refresh {display: inline-block;position: fixed;top:0px;left:10px;width:auto;padding:10px 15px;}
+#btn-refresh {display: inline-block;position: fixed;top:0px;left:0px;width:auto;padding:10px 15px;background-color:#f3f2ea;z-index:3}
 
 
 /* Helpers */
